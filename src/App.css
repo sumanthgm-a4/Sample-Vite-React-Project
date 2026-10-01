@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin-bottom: 0px;
+    margin-top: 0px
+}
+
+.send-button {
+    padding: 12px 20px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: rgb(25, 135, 84);
+    color: white;
+}
+
+.app-container {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
